@@ -77,4 +77,11 @@ Start the server
       # Anything with the word bye inside it
   ```
   <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/5.png"></p>
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at [Mail](codekurama@gmail.com) or on my [Linkedin](https://www.linkedin.com/in/avinasharutla/)
+
   
