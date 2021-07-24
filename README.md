@@ -49,4 +49,32 @@ Start the server
       /start
   ```
   <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/start.png"></p>
+
+- Fetch the name of any student with the 19 series roll no at BVRIT
+  ```bash
+      /rollno 19211A0XXX
+  ```
+  <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/1.png"></p>
+
+  - Fetch the attendance from [ECAP](https://www.bvrit.edu.in) through the following command
+  ```bash
+      /attendance 19211A0XXX;password
+  ```
+  <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/2.png"></p>
+
+  - This is the screenshot sent to the Telegram app
+ 
+  <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/3.png"></p>
+
+  - Get the bot to show you a random Chuck Norris's joke
+  ```bash
+      /joke
+  ```
+  <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/4.png"></p>
+
+  - The bot says byee!
+  ```bash
+      # Anything with the word bye inside it
+  ```
+  <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/5.png"></p>
   
