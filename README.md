@@ -82,6 +82,6 @@ Start the server
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Mail](codekurama@gmail.com) or on my [Linkedin](https://www.linkedin.com/in/avinasharutla/)
+If you have any feedback, please reach out to us at [Mail](mailto:codekurama@gmail.com) or on my [Linkedin](https://www.linkedin.com/in/avinasharutla/)
 
   
