@@ -48,5 +48,5 @@ Start the server
   ```bash
       /start
   ```
-  <p align="center"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/start.png"></p>
+  <p align="left"><img width=25% src="https://github.com/burpcat/vishnubot/blob/master/Sources/start.png"></p>
   
